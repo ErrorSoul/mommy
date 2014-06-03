@@ -1,0 +1,3 @@
+$(".center-block").click(function(){
+    $("#bg").html('<img src="images/14.jpg" alt="">');
+})
